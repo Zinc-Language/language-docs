@@ -6,7 +6,7 @@ This document outlines the technical details of variables in Zinc.
 
 ### Declaration
 
-In Zinc, variables can be declared by writing the variable's name followed by a colon, its mutability, and its [type](./data-types.md).
+In Zinc, variables can be declared by writing the variable's name followed by a colon, its mutability, and its [type](./data_types.md).
 
 Here is an example of variable declarations in Zinc:
 ```zinc
